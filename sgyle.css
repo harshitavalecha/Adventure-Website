@@ -3,6 +3,8 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+
 #wrapper{
     height: 100vh;/* height is same as viewport and maximum height of viewport is 100vh*/
     overflow-x: hidden;
@@ -32,6 +34,8 @@
     z-index: -1;
     object-fit: cover;/*fit imaging container*/
 }
+
+
 h1{
    position:absolute;
    top: 5rem;
